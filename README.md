@@ -1,6 +1,4 @@
-### Hi there 👋
-
-👋 Hey there, I'm Linzku!
+<h1>👋 Hey there, I'm Linzku!</h1>
 
 🎓 Currently navigating my way through the intriguing realms of second-year IT studies, I'm a passionate explorer of all things tech and art. My curiosity knows no bounds, but I find myself particularly drawn to UI/UX Design, Web Development, Cloud Computing, and DevOps 🤓📚. When I'm not immersed in code, you can catch me indulging in the art of problem-solving, diving into the immersive world of games 🎮, and weaving my creativity into art projects 🎨.
 
